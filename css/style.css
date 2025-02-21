@@ -39,6 +39,10 @@ font-style: normal;
   align-items: center;
 }
 
+.site-logo:hover{
+opacity: 0.8;
+}
+
 .site-header-nav{
   display: flex;
   align-items: center;
@@ -187,6 +191,9 @@ letter-spacing: 0.5px;
   line-height: 18px;
   color: #252420;
   text-decoration: none;
+  transition: all 0.5 ease;
 }
+
+
   
   
